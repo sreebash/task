@@ -1,0 +1,19 @@
+@media (max-width:1440px){
+	.card-section .card{
+		margin-top:40px;
+	}
+}
+@media (max-width:1440px){
+	body{
+		padding:100px 10px;
+	}
+	.feature-head-section h2 {
+		font-size: 25px;
+		color: #4b4c60;
+	}
+}
+@media (max-width:375px){
+	.feature-head-section h2 {
+		font-size: 22px;
+	}
+}
